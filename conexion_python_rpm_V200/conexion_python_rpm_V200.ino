@@ -1,6 +1,6 @@
 /*
   Voltaje de fuente externa 9.6V @ 1.0A
-  RPM Sin Reductor (~9.6V): 1600 RPM
+  RPM Sin Reductor (~9.6V): 4000 RPM
   Pulsos x vuelta: 12
   Indice de cambio: 1/12
   RPM con reducción a (~9.6V): 300 RPM
